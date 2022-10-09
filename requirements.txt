@@ -1,0 +1,7 @@
+torch
+numpy
+tqdm
+torchvision
+pycocotools
+pillow
+CLIP from here: https://github.com/openai/CLIP
