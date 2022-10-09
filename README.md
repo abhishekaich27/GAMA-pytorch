@@ -14,3 +14,4 @@ This repository is a PyTorch implementation of the paper "GAMA: Generative Adver
 We thank the authors of the following repositories for making their code open-source.  
 1. https://github.com/megvii-research/ML-GCN
 2. https://github.com/mingming97/multilabel-cam
+3. https://github.com/Alibaba-AAIG/Beyond-ImageNet-Attack
