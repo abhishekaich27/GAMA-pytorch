@@ -15,12 +15,6 @@ python train.py --surr_model_type <surrogate model name> --data_name <voc/coco> 
 python eval.py --data_name <voc/coco> --gen_path <path to trained generator file (.pth)> 
 ```
 
-## Acknowledgement
-We thank the authors of the following repositories for making their code open-source.  
-1. https://github.com/megvii-research/ML-GCN
-2. https://github.com/mingming97/multilabel-cam
-3. https://github.com/Alibaba-AAIG/Beyond-ImageNet-Attack
-
 ## Citing this work
 If you find this work is useful in your research, please consider citing:
 ```
@@ -33,3 +27,10 @@ If you find this work is useful in your research, please consider citing:
 ```
 ## Contact
 Please contact the first author of this paper - Abhishek Aich (aaich001@ucr.edu) for any further queries.
+
+
+## Acknowledgement
+We thank the authors of the following repositories for making their code open-source.  
+1. https://github.com/megvii-research/ML-GCN
+2. https://github.com/mingming97/multilabel-cam
+3. https://github.com/Alibaba-AAIG/Beyond-ImageNet-Attack
