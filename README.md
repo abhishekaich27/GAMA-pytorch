@@ -10,7 +10,7 @@ This repository is a PyTorch implementation of the paper "GAMA: Generative Adver
 2. Install the packages listed in ```requirements.txt```. Creating a conda environment is recommended.
 3. To train a perturbation generator, run the following command:
 ```
-python train.py --surr_model_type <surrogate model name> --data_name <voc/coco> --train_dir <path to dataset> --eps <l_infty noise strength> --batch_size 8 --epochs 20 --save_folder v4_vocTrained_models --clip_backbone <clipd model type> | tee <exp name>.txt
+python train.py --surr_model_type <surrogate model name> --data_name <voc/coco> --train_dir <path to dataset> --eps <l_infty noise strength> --batch_size 8 --epochs 20 --save_folder <path to trained models folder> --clip_backbone <clip model type> | tee <experiment name>.txt
 ```
 4. To evaluate a trained perturbation generator, run the following command:
 ```
