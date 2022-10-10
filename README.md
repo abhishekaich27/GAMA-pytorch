@@ -1,6 +1,8 @@
 ## Overview
 This repository is a PyTorch implementation of the paper "GAMA: Generative Adversarial Multi-Object Scene Attacks" (NeurIPS'22).
 
+![images](https://github.com/abhishekaich27/abhishekaich27.github.io/blob/66b55a4215b441f785fa5633e909be45343803d3/data/Project_pages/NeurIPS_2022/main_fig.png)
+
 [Project page](https://abhishekaich27.github.io/gama.html)
 
 ## Usage
