@@ -28,6 +28,7 @@ parser.add_argument('--epochs', type=int, default=1, help='Number of training ep
 parser.add_argument('--lr', type=float, default=0.0001, help='Initial learning rate for adam')
 parser.add_argument('--eps', type=int, default=10, help='Perturbation Budget')
 parser.add_argument('--seed', type=int, default=42, help='Reproducibility seed')
+parser.add_argument('--margin', type=float, default=0.2, help='Margin for contrastive loss')
 parser.add_argument('--surr_model_type', type=str, default='vgg16',
                     help='Model against GAN is trained: vgg16, vgg19 res152, dense169')
 parser.add_argument('--attack_model_type', type=str, default='vgg16',
