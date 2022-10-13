@@ -20,11 +20,13 @@ python eval.py --data_name <voc/coco> --gen_path <path to trained generator file
 ## Citing this work
 If you find this work is useful in your research, please consider citing:
 ```
-@InProceedings{aich2022gama,
-  title={GAMA: Generative Adversarial Multi-Object Scene Attacks},
-  author={Aich, Abhishek and Khang-Ta, Calvin and Gupta, Akash and Song, Chengyu and Krishnamurthy, Srikanth V and Asif, M Salman and Roy-Chowdhury, Amit K},
-  booktitle = {arXiv preprint arXiv:2209.09502},
-  year={2022}
+@inproceedings{
+aich2022gama,
+title={{GAMA}: Generative Adversarial Multi-Object Scene Attacks},
+author={Abhishek Aich and Calvin-Khang Ta and Akash A Gupta and Chengyu Song and Srikanth Krishnamurthy and M. Salman Asif and Amit Roy-Chowdhury},
+booktitle={Thirty-Sixth Conference on Neural Information Processing Systems},
+year={2022},
+url={https://openreview.net/forum?id=DRckHIGk8qw}
 }
 ```
 ## Contact
