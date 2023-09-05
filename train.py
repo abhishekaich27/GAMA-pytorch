@@ -16,7 +16,7 @@ import copy
 from itertools import product
 from torchvision import transforms
 import clip
-from eval_ml import evaluate_ml
+from eval import evaluate_ml
 import pickle
 from losses import ContrastiveLoss
 
